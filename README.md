@@ -3,7 +3,7 @@
 ## Megalayer 简介
 Megalayer是一家提供多种VPS和独立服务器的服务商，特别是在香港、美国和新加坡机房。他们为小型到中型企业提供高效且成本合理的云计算解决方案。
 
-![image](https://github.com/lowells977/Megalayer/assets/157679761/11dcc349-18ea-48b8-82de-11ae6d888315)
+![image](https://github.com/lowells977/Megalayer/assets/157679761/418c0166-98f0-474b-88a2-9ec91c189be8)
 
 
 ## Megalayer 官网地址
